@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi there!
-
 I am a third-year university student from Bangkok.
 
 ### 👨‍💻 About Me :
