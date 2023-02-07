@@ -6,8 +6,6 @@ I am a third-year university student from Bangkok.
 
 - 🌈 I'm interested in Cloud Computing, Machine Learning, and Data Science.
 
-- ⚡ Fun fact: I play MMORPGs.
-
 ### 🔥 Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotHolmes&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
