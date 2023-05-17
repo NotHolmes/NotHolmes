@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
-I am a third-year university student from Bangkok.
+BKK based university student.
 
 ### 👨‍💻 About Me :
 
-- 🌈 I'm interested in Cloud Computing, Machine Learning, and Data Science.
+- 🌱 I'm interested in Machine Learning, Data Science, and Cloud Computing.
 
 ### 🔥 Stats :
 
