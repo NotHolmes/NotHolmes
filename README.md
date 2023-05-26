@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-BKK based university student.
+BKK based human
 
 ### 👨‍💻 About Me :
 
-- 🌱 I'm interested in Machine Learning, Data Science, and Cloud Computing.
+- 🌱 Machine Learning, Data Science, and Cloud Computing.
 
 ### 🔥 Stats :
 
